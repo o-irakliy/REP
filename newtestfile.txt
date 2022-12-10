@@ -1,0 +1,11 @@
+for i in range(1, n + 1):
+    s = input()
+    list_1.append(s)
+k = int(input())
+print(list_1)
+for j in range(1, n + 1):
+    if len(s) < k:
+        continue
+    else: 
+        list.append(s[k - 1])
+print(list) 
